@@ -1,4 +1,4 @@
-<h1 align="center">Hi wassup 👋, I'm I'm Dhruv</h1>
+<h1 align="center">Hi wassup 👋, I'm Dhruv</h1>
 <h3 align="center">I'm a student and interested in AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv6397&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv6397" /> </p>
