@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a student**
 
-- 🌱 I’m currently learning **BACKEND, DATASCIENCE, ML**
+- 🌱 I’m currently learning **REACT JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
